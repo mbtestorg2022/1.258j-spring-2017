@@ -24,7 +24,7 @@ topicS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec01)
+[Introduction (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec01)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ topicS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Data collection techniques and program design (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec02)
+[Data collection techniques and program design (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec02)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ topicS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Modal characteristics and roles (PDF - 2.1MB)]({{< baseurl >}}/resources/mit1_258js17_lec03)
+[Modal characteristics and roles (PDF - 2.1MB)]({{< baseurl >}}/resources/mit1_258js17_lec03)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ topicS
 4–5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Short-range planning (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec04and05)
+[Short-range planning (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec04and05)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ topicS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Modal capacities and costs (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec06)
+[Modal capacities and costs (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec06)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ topicS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cost estimation (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec07)
+[Cost estimation (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec07)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ topicS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ridership forecasting (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec08)
+[Ridership forecasting (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec08)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ topicS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Performance models (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec09)
+[Performance models (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec09)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ topicS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Origin, destination, and transfer inference (PDF - 2MB)]({{< baseurl >}}/resources/mit1_258js17_lec10)
+[Origin, destination, and transfer inference (PDF - 2MB)]({{< baseurl >}}/resources/mit1_258js17_lec10)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ topicS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Macro design models for a single route (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec11)
+[Macro design models for a single route (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +114,7 @@ topicS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Frequency determination (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec12)
+[Frequency determination (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +123,7 @@ topicS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vehicle scheduling (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec13)
+[Vehicle scheduling (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ topicS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crew scheduling (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec14)
+[Crew scheduling (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ topicS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Networks and route structure (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec15)
+[Networks and route structure (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ topicS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bus and Rail corridor strategies (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec16)
+[Bus and Rail corridor strategies (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +159,7 @@ topicS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Customer information strategies—guest lecture by John Attanucci (PDF - 1.2MB)]({{< baseurl >}}/resources/mit1_258js17_lec17)
+[Customer information strategies—guest lecture by John Attanucci (PDF - 1.2MB)]({{< baseurl >}}/resources/mit1_258js17_lec17)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +177,7 @@ Performance measurement and contracting out
 19
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Transit signal priority—guest lecture by Peter G. Furth (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec19)
+[Transit signal priority—guest lecture by Peter G. Furth (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec19)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ Performance measurement and contracting out
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Transit service reliability (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec20)
+[Transit service reliability (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec20)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +195,7 @@ Performance measurement and contracting out
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fare policy, structure, and technology (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec21)
+[Fare policy, structure, and technology (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec21)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Performance measurement and contracting out
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Workforce planning (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec22)
+[Workforce planning (PDF)]({{< baseurl >}}/resources/mit1_258js17_lec22)
 {{< tdclose >}}
 
 {{< trclose >}}
