@@ -17,7 +17,7 @@ This course discusses the evolution and role of urban public transportation mode
 Prerequisites
 -------------
 
-[_1.201J Transportation Systems Analysis: Demand and Economics_](/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/)
+[_1.201J Transportation Systems Analysis: Demand and Economics_](/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008)
 
 Requirements
 ------------
