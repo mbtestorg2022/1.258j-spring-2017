@@ -20,11 +20,11 @@ P. G. Furth, J. Attanucci, I. Burns, and N. H. M. Wilson, "Transit Data Collecti
 
 P. G. Furth, B. Hemily, T. Muller, and J. Strathman, "[TCRP Report 113: Using Archived AVL-APC Data to Improve Transit Performance and Management](http://www.trb.org/Publications/Blurbs/156999.aspx)." Transportation Research Board, 2006.
 
-P. G. Furth, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Synthesis of Transit Practice 34: Data Analysis for Bus Planning and Monitoring." (PDF - 1.4 MB)](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn34.pdf) Transportation Research Board, 2000. _MBTA Service Delivery Policy_, Massachusetts Bay Transportation Authority, 2010
+P. G. Furth, ["Synthesis of Transit Practice 34: Data Analysis for Bus Planning and Monitoring." (PDF - 1.4 MB)](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn34.pdf) Transportation Research Board, 2000. _MBTA Service Delivery Policy_, Massachusetts Bay Transportation Authority, 2010
 
 W. R. Dawson, "Optimizing Transit Service Decisions Based on Ridership – Good for Passengers and the Community." Paper presented at UITP Congress, Toronto, May 1999.
 
-H. Benn, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Synthesis of Transit Practice 10: Bus Route Evaluation Standards." (PDF)](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn10.pdf) Transportation Research Board, 1995.
+H. Benn, ["Synthesis of Transit Practice 10: Bus Route Evaluation Standards." (PDF)](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn10.pdf) Transportation Research Board, 1995.
 
 N. H. M. Wilson, D. Nelson, A. Palmere, T. Grayson, and C. Cederquist, "Service Quality Monitoring for High-Frequency Transit Lines." _Transportation Research Record_ 1349 (1992): 3-11.
 
@@ -40,7 +40,7 @@ Z. Peng, K. Dueker, J. Strathman, and J. Hopper, "A Simultaneous Route-level Tra
 
 Toronto Transit Commission, "Ridership Forecasting Methods." _Service Standards Process Technical Background Papers_ no. 1, January 1991.
 
-Toronto Transit Commission, _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Service Improvements for 2008](https://www.ttc.ca/PDF/Transit_Planning/service_improvements_2008.pdf)_ [(PDF - 1.3 MB)](https://www.ttc.ca/PDF/Transit_Planning/service_improvements_2008.pdf), April 2008.
+Toronto Transit Commission, _[Service Improvements for 2008](https://www.ttc.ca/PDF/Transit_Planning/service_improvements_2008.pdf)_ [(PDF - 1.3 MB)](https://www.ttc.ca/PDF/Transit_Planning/service_improvements_2008.pdf), April 2008.
 
 R. A. Chapman and J. F. Michel, "Modeling the Tendency of Buses to Form Pairs." _Transportation Science_ 12, no. 2 (1978): 165-175.
 
@@ -50,7 +50,7 @@ N. H. M. Wilson and T. Lin, "Dwell-Time Relationships for Light Rail Systems." _
 
 M. N. Milkovtis, "Modeling the Factors Affecting Bus Stop Dwell Time." In _Transportation Research Record: Journal of the Transportation Research Board,_ no. 2072, Transportation Research Board of the National Academies, Washington, D.C., 2008. pp. 125—130.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Summary of TCRP Report 88: A Guidebook for Developing a Transit Performance-Measurement System." (PDF)](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_report_88/SummaryDoc.pdf) Transportation Research Board, 2003.
+["A Summary of TCRP Report 88: A Guidebook for Developing a Transit Performance-Measurement System." (PDF)](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_report_88/SummaryDoc.pdf) Transportation Research Board, 2003.
 
 J. B. Gordon et al, "Automated Inference of Linked Transit Journeys in London Using Fare-Transaction and Vehicle Location Data." In _Transportation Research Record: Journal of the Transportation Research Board_, no. 2072, Transportation Research Board of the National Academies, Washington, D.C., 2013. pp. 17—24.
 
@@ -78,7 +78,7 @@ R. Halvorsen and N. H. M. Wilson, "The Role of Contract Structuring in Contracte
 
 P. Furth and T. Muller, "Conditional Bus Priority at Signalized Intersections: Better Service Quality with Less Traffic Disruption." _Transportation Research Record_ 1731 (2000): 23-30.
 
-_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[TCRP Report 94: Fare Policies, Structures and Technologies: Update (PDF - 1.9 MB)](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_rpt_94.pdf)_. Transportation Research Board, 2003.
+_[TCRP Report 94: Fare Policies, Structures and Technologies: Update (PDF - 1.9 MB)](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_rpt_94.pdf)_. Transportation Research Board, 2003.
 
  V. Vuchic, Chapter 7: Transit Fares. In _Urban Transit: Operations, Planning and Economics_. New York, NY: Wiley, 2005. ISBN: 9780471632658. \[Preview with [Google Books](https://books.google.com/books?id=4pU-DwAAQBAJ&printsec=frontcover&dq=Urban+Transit:+Operations,+Planning+and+Economics&hl=en&newbks=1&sa=X&ved=2ahUKEwjhw-r4yfXfAhWvhOAKHVlNB9QQuwUwAHoECAQQBA#v=onepage&q=Urban%20Transit%3A%20Operations%2C%20Planning%20and%20Economics&f=false)\]
 
