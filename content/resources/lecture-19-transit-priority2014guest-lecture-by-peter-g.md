@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 19: Transit Signal Priority\u2014Guest Lecture by Peter G. Furth"
 uid: c26966cf-d73c-7ae1-f98d-320c37f94f5b
 video_files:

@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 17: Customer Information Strategies\u2014Guest Lecture by John Attanucci"
 uid: d89b1d6c-7f8a-856f-9bbc-6dfcc39c48ae
 video_files:

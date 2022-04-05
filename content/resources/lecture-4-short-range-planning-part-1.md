@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 4: Short-range Planning\u2014Part 1"
 uid: f84e366c-35b1-43cb-5d29-0d4a160db7cb
 video_files:

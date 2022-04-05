@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-258j-public-transportation-systems-spring-2017/c8505d5b58c57f51b7c71cf01533459d_MIT1_258JS17_HW1Data.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e3434711-209b-b8da-22a0-af4f7e74ef9e
 resourcetype: Other
 title: MIT1_258JS17_HW1Data

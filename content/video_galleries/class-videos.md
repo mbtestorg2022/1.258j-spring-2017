@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Videos
 uid: 7bd7df5c-2ffa-d150-30dc-543534b4530b
 videos:
